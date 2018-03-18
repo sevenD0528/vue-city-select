@@ -6,5 +6,5 @@ const plug = {
     Vue.component(city.name, city)
   }
 }
-// 导出这个对象
+// export the plug
 export default plug
